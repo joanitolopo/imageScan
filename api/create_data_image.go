@@ -31,11 +31,25 @@ func GetImage_tar(path string) {
 }
 
 func checkFile(name string) (value bool) {
+	fmt.Println("Check folder result")
+	if _, err := os.Stat("result/"); err != nil {
+		fmt.Println("Creating folder result")
+
+		exec.Command("mkdir", "result").Run()
+
+		fmt.Println("Folder result has been created")
+	} else {
+		fmt.Println("Folder result is exist")
+	}
+
+	fmt.Println("Check file exist")
 
 	if _, err := os.Stat("result/" + name + ".json"); err == nil {
 		value = true
 	} else {
 		value = false
+		fmt.Println("File is not found")
+		fmt.Println("Default name is ", name+".json")
 	}
 
 	return value
