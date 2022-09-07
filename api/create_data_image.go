@@ -36,6 +36,8 @@ func GetImage_tar(name string) {
 
 	fmt.Println("Finish scaning")
 
+	parseJSON(name)
+
 }
 
 func checkFile(name string) {
