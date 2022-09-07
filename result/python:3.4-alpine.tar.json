@@ -117,7 +117,6 @@
           "InstalledVersion": "2.2.6-r0",
           "FixedVersion": "2.2.7-r0",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -185,7 +184,6 @@
           "InstalledVersion": "2.2.6-r0",
           "FixedVersion": "2.2.7-r1",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -295,7 +293,6 @@
           "InstalledVersion": "1.0.6-r6",
           "FixedVersion": "1.0.6-r7",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -367,7 +364,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1b-r1",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -424,7 +420,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1g-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -500,7 +495,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1j-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -567,7 +561,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1k-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -636,7 +629,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1d-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -713,7 +705,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1d-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -772,7 +763,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1d-r2",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -842,7 +832,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1i-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -913,7 +902,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1j-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -978,7 +966,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1k-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1054,7 +1041,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1d-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1131,7 +1117,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1j-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1180,7 +1165,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1b-r1",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1237,7 +1221,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1g-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1313,7 +1296,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1j-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1380,7 +1362,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1k-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1449,7 +1430,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1d-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1526,7 +1506,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1d-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1585,7 +1564,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1d-r2",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1655,7 +1633,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1i-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1726,7 +1703,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1j-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1791,7 +1767,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1k-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1867,7 +1842,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1d-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1944,7 +1918,6 @@
           "InstalledVersion": "1.1.1a-r1",
           "FixedVersion": "1.1.1j-r0",
           "Layer": {
-            "Digest": "sha256:8e402f1a9c577ded051c1ef10e9fe4492890459522089959988a4852dee8ab2c",
             "DiffID": "sha256:bcf2f368fe234217249e00ad9d762d8f1a3156d60c442ed92079fa5b120634a1"
           },
           "SeveritySource": "nvd",
@@ -1993,7 +1966,6 @@
           "InstalledVersion": "1.1.20-r4",
           "FixedVersion": "1.1.20-r5",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -2031,7 +2003,6 @@
           "InstalledVersion": "1.1.20-r4",
           "FixedVersion": "1.1.20-r6",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -2076,7 +2047,6 @@
           "InstalledVersion": "1.1.20-r4",
           "FixedVersion": "1.1.20-r5",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -2114,7 +2084,6 @@
           "InstalledVersion": "1.1.20-r4",
           "FixedVersion": "1.1.20-r6",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -2159,7 +2128,6 @@
           "InstalledVersion": "3.26.0-r3",
           "FixedVersion": "3.28.0-r0",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -2221,7 +2189,6 @@
           "InstalledVersion": "3.26.0-r3",
           "FixedVersion": "3.28.0-r2",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -2264,7 +2231,6 @@
           "InstalledVersion": "3.26.0-r3",
           "FixedVersion": "3.28.0-r0",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -2315,7 +2281,6 @@
           "InstalledVersion": "3.26.0-r3",
           "FixedVersion": "3.28.0-r3",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -2371,7 +2336,6 @@
           "InstalledVersion": "3.26.0-r3",
           "FixedVersion": "3.28.0-r1",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",
@@ -2432,7 +2396,6 @@
           "InstalledVersion": "3.26.0-r3",
           "FixedVersion": "3.28.0-r2",
           "Layer": {
-            "Digest": "sha256:aafecf9bbbfd514858f0d93fa0f65c2d59c8a1c46ec4b55963e42619f00a0a61",
             "DiffID": "sha256:fbe16fc07f0d81390525c348fbd720725dcae6498bd5e902ce5d37f2b7eed743"
           },
           "SeveritySource": "nvd",

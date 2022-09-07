@@ -29,7 +29,6 @@ func GetImage_tar(name string) {
 	fmt.Println("Scanning image...")
 
 	path := "tar_files/" + name
-
 	err := exec.Command("trivy", "image", "-f", "json", "-o", "result/"+name+".json", "--input", path).Run()
 	if err != nil {
 		log.Fatal(err)

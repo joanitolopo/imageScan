@@ -6,6 +6,6 @@ import (
 
 func main() {
 
-	api.GetImage_input("python:3.4-alpine")
-	// api.GetImage_tar("python:3.4-alpine.tar")
+	// api.GetImage_input("python:3.4-alpine")
+	api.GetImage_tar("python:3.4-alpine.tar")
 }
